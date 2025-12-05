@@ -1,4 +1,3 @@
-
 body {
     font-family: "Segoe UI", "sans-serif";
     font-size: 14px;
@@ -65,7 +64,10 @@ body {
 
 .post-footer {
     overflow: hidden;
-    margin: 8px;
     padding: 8px;
     font-size: 14px;
+}
+
+.post-footer p {
+    margin: 8px
 }
